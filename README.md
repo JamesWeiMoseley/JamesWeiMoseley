@@ -17,5 +17,5 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesweimoseley&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesweimoseley&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
