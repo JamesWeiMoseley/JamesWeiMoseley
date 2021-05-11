@@ -1,4 +1,5 @@
-### Hi there, I'm James.
+### Hi there, I'm James.&#128075;
+
 
 ## Welcome to my Github
 - Oregon State University class of 2022
