@@ -17,3 +17,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesweimoseley)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesweimoseley&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
