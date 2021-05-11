@@ -2,8 +2,8 @@
 
 
 ## Welcome to my Github
-- Oregon State University class of 2022
-- Software Development Engineer
+- Oregon State University class of 2022 &#129451;
+- Software Development Engineer &#128187;
 
 ### Languages and Tools
 
