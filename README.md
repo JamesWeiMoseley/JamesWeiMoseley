@@ -16,5 +16,5 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesweimoseley&theme=tokyonight&layout=compact&exclude_repo=github-slideshow)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesweimoseley&theme=tokyonight&layout=compact&exclude_repo=COVID-19-survey)](https://github.com/anuraghazra/github-readme-stats)
 
