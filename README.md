@@ -17,5 +17,5 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesweimoseley&theme=tokyonight&layout=compact&exclude_repo=github-slideshow,NarkmanGolfWebsite_v1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesweimoseley&theme=tokyonight&langs_count=8&layout=compact&exclude_repo=github-slideshow,NarkmanGolfWebsite_v1)](https://github.com/anuraghazra/github-readme-stats)
 
