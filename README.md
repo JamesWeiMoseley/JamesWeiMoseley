@@ -4,6 +4,7 @@
 ## Welcome to my Github
 
 - Software Development Engineer &#128187;
+- Oregon State University class of 2022 &#129451;
 - <a href="http://www.jamesmoseley.info/">Link to my Personal Website</a>&#128376;
 
 
