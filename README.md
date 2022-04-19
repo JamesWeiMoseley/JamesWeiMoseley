@@ -4,7 +4,7 @@
 ## Welcome to my Github
 
 - Software Development Engineer &#128187;
-- Oregon State University class of 2022 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/en/1/1b/Oregon_State_Beavers_logo.svg" />
+- Oregon State University class of 2022 <img align="right" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/en/1/1b/Oregon_State_Beavers_logo.svg" />
 - <a href="http://www.jamesmoseley.info/">Link to my Personal Website</a>&#128376;
 
 
